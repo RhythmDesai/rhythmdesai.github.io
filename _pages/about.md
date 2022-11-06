@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 Hi there 👋, I'm Rhythm Desai
-🎓 I’m currently pursuing my Masters in Analytics at Northeastern University based in Boston, Massachusetts. The concentration track for my majors is in Machine Learning and Artificial Intelligence.
-🌱 I’m currently learning the field of Artificial Intelligence using Deep Learning along with my major subjects of data analytics and data science.
-💻 Prior to pursuing my master's degree, I worked as a Data Engineer and Analyst for about two years.
-📜 I received my Bachelors of Technology degree in Computer Science from Gujarat Technological University, India.
-💬 Ask me about anything you would like to know about me. We will surely have our conversation!
-📫 Reach out to me: desai.rhy@gmail.com
-😄 Pronouns: He/Him
-🔵 Fun fact: I am a huge Chelsea FC fan. Keep the blue flag flying high!
+- 🎓 I’m currently pursuing my Masters in Analytics at Northeastern University based in Boston, Massachusetts. The concentration track for my majors is in Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning the field of Artificial Intelligence using Deep Learning along with my major subjects of data analytics and data science.
+- 💻 Prior to pursuing my master's degree, I worked as a Data Engineer and Analyst for about two years.
+- 📜 I received my Bachelors of Technology degree in Computer Science from Gujarat Technological University, India.
+- 💬 Ask me about anything you would like to know about me. We will surely have our conversation!
+- 📫 Reach out to me: desai.rhy@gmail.com
+- 😄 Pronouns: He/Him
+- 🔵 Fun fact: I am a huge Chelsea FC fan. Keep the blue flag flying high!
+
 
 Still working on my portfolio. Thoughts, advices are all welcome here!
 
