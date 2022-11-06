@@ -21,4 +21,4 @@ Hi there 👋, I'm Rhythm Desai
 *Still working on my portfolio. Thoughts, advices are all welcome here!*
 
 - [LinkedIn](https://www.linkedin.com/in/rhythm-desai-b8955a1b3/)
-- [Tableau](https://public.tableau.com/app/profile/rhythm.desai) -
+- [Tableau](https://public.tableau.com/app/profile/rhythm.desai)
